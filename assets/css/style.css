@@ -1,0 +1,25 @@
+.topic_button{
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.gif_image{
+	margin: 10px;
+}
+
+#label{
+	text-align:left;
+}
+
+#add_button{
+	margin-top: 5px;
+}
+
+#display_area{
+	margin-top: 50px;
+}
+
+/*.image_div{
+	float: left;
+}*/
